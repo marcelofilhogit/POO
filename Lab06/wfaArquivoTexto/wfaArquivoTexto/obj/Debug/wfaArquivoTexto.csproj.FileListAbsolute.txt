@@ -1,0 +1,29 @@
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.exe.config
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.exe
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.pdb
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csprojResolveAssemblyReference.cache
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.Form1.resources
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.Properties.Resources.resources
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csproj.GenerateResource.Cache
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.exe
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.pdb
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.exe.config
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.exe
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.pdb
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csprojAssemblyReference.cache
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.Form1.resources
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.Properties.Resources.resources
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csproj.GenerateResource.cache
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.exe
+C:\Users\Edgard\Desktop\UFU\DISCIPLINAS\PROJETOS\Visual Studio 2015\Projects\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.pdb
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.exe.config
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.exe
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\bin\Debug\wfaArquivoTexto.pdb
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csprojAssemblyReference.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.Form1.resources
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.Properties.Resources.resources
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csproj.GenerateResource.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.exe
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Trabalho Hoje\wfaArquivoTexto\wfaArquivoTexto\obj\Debug\wfaArquivoTexto.pdb
