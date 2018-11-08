@@ -1,0 +1,7 @@
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\bin\Debug\caEstacionamento.exe.config
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\bin\Debug\caEstacionamento.exe
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\bin\Debug\caEstacionamento.pdb
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\obj\Debug\caEstacionamento.csprojAssemblyReference.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\obj\Debug\caEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\obj\Debug\caEstacionamento.exe
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab02\caEstacionamento\caEstacionamento\obj\Debug\caEstacionamento.pdb
