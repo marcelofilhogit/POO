@@ -1,0 +1,7 @@
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\bin\Debug\caVetor3D.exe.config
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\bin\Debug\caVetor3D.exe
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\bin\Debug\caVetor3D.pdb
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\obj\Debug\caVetor3D.csprojAssemblyReference.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\obj\Debug\caVetor3D.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\obj\Debug\caVetor3D.exe
+C:\Users\marce\Documents\Visual Studio 2017\My Projects\POO\Laboratory\Lab04\caVetor3D\caVetor3D\obj\Debug\caVetor3D.pdb
